@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: aquamarine;
+}
+
+section {
+    background-color: azure;
+}
+
+article {
+    background-color: chartreuse;
+}
+
+aside {
+    background-color: khaki;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+.altura1 {
+    height: 10vh;
+}
+
+.altura2 {
+    height: 10vh;
+}
+
+.altura4 {
+    height: 10vh;
+}
